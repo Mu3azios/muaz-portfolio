@@ -23,7 +23,7 @@ const data = [
     id:3,
     image:achievement,
     title:'My Portfolio in React JS',
-    github:'https://github.com',
+    github:'https://github.com/Mu3azios/muaz-portfolio',
   },
   {
     id:4,
