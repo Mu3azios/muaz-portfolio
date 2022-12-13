@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/muaz-portfolio/static/css/main.277b950e.css",
-    "main.js": "/muaz-portfolio/static/js/main.4b97d78b.js",
+    "main.js": "/muaz-portfolio/static/js/main.7dcdaa2b.js",
     "static/media/1.jpg": "/muaz-portfolio/static/media/1.4ea3c99acde069bc005c.jpg",
     "static/media/programming.jpg": "/muaz-portfolio/static/media/programming.0a4893421f4eb80a395c.jpg",
     "static/media/conference-certificate-Muaz-Baytamouny.pdf": "/muaz-portfolio/static/media/conference-certificate-Muaz-Baytamouny.f56a9034c98069bdf599.pdf",
     "static/media/me-removebg.png": "/muaz-portfolio/static/media/me-removebg.2d30170fb7848ff06ea5.png",
-    "static/media/Muaz-Baytamouny-Resume.pdf": "/muaz-portfolio/static/media/Muaz-Baytamouny-Resume.466cd54fd57e3df2ffae.pdf",
     "static/media/Laravel.jpg": "/muaz-portfolio/static/media/Laravel.a72ae5c1d3ff9aa2e27b.jpg",
     "static/media/AI2.jpg": "/muaz-portfolio/static/media/AI2.3ebbb814dcb05e2738a9.jpg",
+    "static/media/Muaz-Baytamouny-Resume.pdf": "/muaz-portfolio/static/media/Muaz-Baytamouny-Resume.26285b6f48f04b1aab9f.pdf",
     "static/media/achievement.jpg": "/muaz-portfolio/static/media/achievement.a063f5ca14eee27b8aed.jpg",
     "static/media/Muaz's-Testimonial.pdf": "/muaz-portfolio/static/media/Muaz's-Testimonial.d682cb85a2ba60a1a660.pdf",
     "static/media/construction.jpg": "/muaz-portfolio/static/media/construction.7dc6de40e6b0b67b5db5.jpg",
     "static/media/portfolio.jpeg": "/muaz-portfolio/static/media/portfolio.518c600f45bf56de3d57.jpeg",
     "index.html": "/muaz-portfolio/index.html",
     "main.277b950e.css.map": "/muaz-portfolio/static/css/main.277b950e.css.map",
-    "main.4b97d78b.js.map": "/muaz-portfolio/static/js/main.4b97d78b.js.map"
+    "main.7dcdaa2b.js.map": "/muaz-portfolio/static/js/main.7dcdaa2b.js.map"
   },
   "entrypoints": [
     "static/css/main.277b950e.css",
-    "static/js/main.4b97d78b.js"
+    "static/js/main.7dcdaa2b.js"
   ]
 }
