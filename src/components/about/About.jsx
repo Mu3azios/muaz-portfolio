@@ -34,7 +34,7 @@ export const About = () => {
             <article className="about__card">
               <FaCode className="about__icon" />
               <h5>Experience</h5>
-              <small>1 year experience</small>
+              <small>3 years experience</small>
             </article>
 
             <article className="about__card">
